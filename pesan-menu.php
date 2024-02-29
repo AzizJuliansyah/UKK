@@ -125,6 +125,9 @@ if (isset($_POST['submit'])) {
                         <a href="index.php" class="nav-link text-light">Beranda</a>
                     </li>
                     <li class="nav-item">
+                        <a href="pilih-menu.php" class="nav-link text-light">Menu</a>
+                    </li>
+                    <li class="nav-item">
                         <a href="pesan-menu.php" class="btn btn-outline-light mx-2 shadow">Pesan</a>
                     </li>
                 </ul>

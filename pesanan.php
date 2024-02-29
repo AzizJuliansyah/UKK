@@ -8,10 +8,13 @@ include("koneksi/koneksi.php");
             <div class="navbar-collapse">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a href="index.php" class="nav-link text-light btn btn-outline-light mx-2">Beranda</a>
+                        <a href="index.php" class="nav-link text-light mx-2">Beranda</a>
                     </li>
                     <li class="nav-item">
-                        <a href="pesan-menu.php" class="nav-link text-light btn btn-outline-light mx-2">Pesan</a>
+                        <a href="pilih-menu.php" class="nav-link text-light mx-2">Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="pesan-menu.php" class="nav-link text-light mx-2">Pesan</a>
                     </li>
                 </ul>
             </div>
